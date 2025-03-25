@@ -69,11 +69,13 @@ main{
 .weather-temperature{
     font-size: 70px;
     font-weight: bold;
+    margin-left: 10px;
     color: #6c5ce7;
+    line-height: 88px;
 }
 .weather-icon{
-    font-size: 44px;
-    margin-top: 22px;
+    width: 88px;
+    height: 88px;
     margin-left: 10px;
 }
 .weather-unit{
