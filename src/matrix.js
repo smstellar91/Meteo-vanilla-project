@@ -29,10 +29,10 @@ function drawMatrix() {
    
     setTimeout(() => {
         requestAnimationFrame(drawMatrix);
-    }, 50); // Adjust the value (e.g., 70 for even slower)
+    }, 50); 
 }
 
-// Run the animation
+
 drawMatrix();
 
 window.addEventListener("resize", () => {
