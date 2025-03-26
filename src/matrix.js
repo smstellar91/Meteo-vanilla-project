@@ -13,7 +13,7 @@ function drawMatrix() {
     ctx.fillStyle = "rgba(0, 0, 0, 0.1)";
     ctx.fillRect(0, 0, canvas.width, canvas.height);
 
-    ctx.fillStyle = Math.random() > 0.5 ? "#0ff" : "#ff0090"; // Neon cyan & magenta
+    ctx.fillStyle = Math.random() > 0.5 ? "#0ff" : "#ff0090"; 
     ctx.font = fontSize + "px monospace";
 
     drops.forEach((y, i) => {
