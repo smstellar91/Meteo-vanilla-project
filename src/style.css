@@ -22,7 +22,7 @@ body {
 
 a {
     color: #ff007f;
-    text-shadow: 0 0 5px #ff007f, 0 0 10px #ff00ff;
+    text-shadow: 0 0 5px #ff007f, 0 0 6px #00eaff;
 }
 
 .weather-app {
@@ -100,7 +100,7 @@ header {
     font-size: 28px;
     text-transform: uppercase;
     color: #ff007f;
-    text-shadow: 0 0 5px #ff007f, 0 0 10px #ff00ff;
+    text-shadow: 0 0 2px #ff007f, 0 0 8px #00eaff;
 }
 
 .weather-details {
@@ -174,7 +174,7 @@ footer {
     text-align: center;
     font-size: 13px;
     color: rgba(0, 234, 255, 0.8);
-    text-shadow: 0 0 5px #ff007f;
+    text-shadow: 0 0 1px #ff007f;
 }
 
 
